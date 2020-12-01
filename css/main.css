@@ -1,0 +1,92 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #060564;
+}
+
+.btn-default {
+    background-color: #060564;
+    border-color: #060564;
+    color: white;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active {
+    color: white;
+}
+
+a, a:hover, a:focus, a:active {
+    color: #060564;
+}
+
+.nav-link.active {
+    font-weight: bold;
+}
+
+.video-container {
+    position: sticky;
+    top: 5px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+/* Footer */
+footer {
+    min-height: 13rem;
+    border: 3px solid #E9ECEF;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+footer a, footer a:visited {
+    color: #212529;
+}
+
+footer a:hover {
+    color: #212529;
+    text-decoration: underline;
+}
+
+footer .footer-logo {
+    padding-left: 0;
+    margin-bottom: 1rem;
+    padding-top: 1.5rem !important;
+}
+
+footer .footer-logo li {
+    display: inline-block;
+    margin: 0;
+}
+
+footer .footer-logo li+li {
+    margin-left: 1rem;
+}
+
+footer .footer-logo img {
+    height: 45px;
+    display: block;
+    margin: auto;
+}
+
+footer .footer-navigation {
+  margin: 30px 0;
+  padding: 0;
+  color: #212529;
+  text-align: center;
+  list-style: none;
+}
+
+footer .footer-navigation li {
+    display: inline-block;
+    padding: 0 10px;
+}
+
+footer .footer-navigation li a {
+    color: #212529;
+}
+
+footer .footer-navigation li a:hover {
+    color: #212529;
+    text-decoration: underline;
+}
