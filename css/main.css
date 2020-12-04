@@ -29,6 +29,12 @@ a, a:hover, a:focus, a:active {
     cursor: pointer;
 }
 
+.list-group-item.active {
+    background-color: #D1D1D1;
+    color: black;
+    border-color: #D1D1D1;
+}
+
 /* Footer */
 footer {
     min-height: 13rem;
