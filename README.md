@@ -1,2 +1,4 @@
-# classpop
-Static site 
+# ClassPop, Perspectives on the Teaching of Controversial Issues in High School Social Studies
+
+ClassPOP, a collaborative project developed by Thomas Hatch and Anand Marri from Teachers College, Columbia University and the Columbia Center for New Media Teaching and Learning with the assistance of Ariel Kitch and Paul Neira. The websites are designed to give teacher education students a “virtual field experience” in which they can see unedited classroom videos and interviews and which teacher educators can use as sites of inquiry with their students. The websites were produced with materials collected in 2010, in two public high schools in New York City. The teachers were selected because of their connection to the Social Studies Program at Teachers College. While these sites were designed to be used in teacher education classes at Teachers College, Columbia University, they are made available here for anyone who may wish to explore them.
+
